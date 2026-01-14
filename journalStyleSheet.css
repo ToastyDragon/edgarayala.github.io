@@ -16,10 +16,12 @@ body {
 }
 
 footer {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 0 auto;
-    background-color: #171717;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #171717;
 }
 
 /* ID's */
