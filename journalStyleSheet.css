@@ -16,13 +16,13 @@ body {
 }
 
 footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 1em;
-  text-align: center;
-  background-color: #171717;
+    width: 100%;
+    max-width: 1200px;
+    padding: 1em; 
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: #171717;
 }
 
 /* ID's */
